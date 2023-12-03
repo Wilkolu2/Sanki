@@ -2742,66 +2742,6 @@
         },
         {
           "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "023e5f2e72695522edd0d489f85543e1f314dd17300688afa0d391bd7f16dfcb",
-          "name": "Cthulhu",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Cthulhu.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 56,
-                            "y": 0
-                          },
-                          {
-                            "x": 56,
-                            "y": 51
-                          },
-                          {
-                            "x": 0,
-                            "y": 51
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "3af1a3fd809de5edf1fd2ffd33e37229c815197717f76d4174b128fa066b011b",
           "name": "Projectile1",
           "type": "Sprite",
@@ -7477,9 +7417,6 @@
           },
           {
             "objectName": "Star2"
-          },
-          {
-            "objectName": "Cthulhu"
           },
           {
             "objectName": "Projectile1"
